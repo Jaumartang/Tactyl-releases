@@ -146,6 +146,30 @@
    "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEHklEQVR42u2aS4gcVRSG/1M1MzEySnySKKKbxBHDoEYQFF24MBhEBV24iAiCi+AyCIILcSMIbhRcuHbpPsGFCzcKUUFJ0ETwBYIxDJmQSUgy6a7PRc7VS9HvutVdnakfhqqe7j51/v/e86hTLbVo0aJFixYtWrTYmrCUxoD/7JkZ82DbEjiVuVPdHu/nflqM63SdtisLEJwrOwbcJGlJ0qaZbfRweKizddpOIgCQmVnh5zdL2i/pWUmrknZJ2i7psqTTko5L+kLSUTNbL39/mrZTxWHuxyXgMPAHo+Ev4B3gxtL2nYrt1ORXgG8iBzrAVaALFNFf1//fiT77A/Bw2dE6bacm/wRwxi8YHBsFhX8e4DzwTLALZHXZTkU+OLgHWIscnARhxTaAh0LSq9F2Vrn2ApnH5bcVHSw7ehLY7rvgu8S2fwaW3feBiX6YQiGrvinpUUkdSQsVN1Xudu6XdEjSa5L2Jba9Iukt9z2bqAwCZmZ4/T3pZYgRRBtpc/lxXVJX0u0JO9Ng+5ykPWa2FriMuwNCEtkv6S5JRSLygahJulXSHdHrVLYLSbdIerHEZSwBgmLP+Tl1VNea7AbbB0K7PJYAnjgKP666qlkNTqZc+V529wKLZlb0S4Z9SXnMLEvaWced45Tucu/0UJi4CixJumGOb/eX/P6h7wIOE+CqpCtzLMBm5D+TCHBB0j+DDDQUwdc1SWfHDgGv/7k3EifcYDFnAiDpJzPb9NvksXdAiJkjNWbruhPh0aHJfoROcIekU96wpOoEp7H6FyStmNnfgwYlA8ugh8E5SR9FHVbT0XVenzr5fNCUyEaYz5mkbZKOSdrrF8gbTD6X9LukRySdl8SgWeHgOyX/opldknTQt1XuF2oq+SuSDvrOtWGD0qHx7G1kbmY/SnopEqHTkNKI9yu51/1XzOxr9zndQgELftwHHI+GEF1mh/jap4AnpzUYXQbei2Z43RmSPwt84NWqPvLlGaGf7wS+SjTOmmT09T1wb3mB6g+6a7PCRT+/DThRcmwa5H8F7nYfFofN/uoOifuAP6cgQtj2Z4AHprrqI4iwCqzXmBPCw5GLwONxYp59Hfq/QjwNXI6cTYXwNKgLPN8o8j1EeDkKhSIR+ZBgX28k+UiEkBgPRZWhqgiB/NuNJt9jJ7yboDyG7344F+SjEhlE+MQJbFYg/1lItjMpdRVECNXh8wl2QvjsEWBhlGd8TRUhA7YBX44hQugjjnnLbZWf8s5QhPBofYf/gGFYoxTe+wXYVW6951WEEAr3AL8NECE0T6eB3Y3o8moQ4cHohxDdHl3eBvDYdUW+R3l8CrjU5zc/B+am3FUU4QUn3okS46vXNfkeIrwRhcDhLUG+hwjvAx9vKfJ9JkuZtiK8yTG1aNGiRYsWLWaBfwEQDLrWGQa0lgAAAABJRU5ErkJggg==",
    "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.0.0.zip",
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.0.0.zip.sig"
+  },
+  {
+   "id": "fotos",
+   "nom": "Marc de fotos",
+   "versio": "1.0.0",
+   "descripcio": {
+    "ca": "Un marc de fotos digital: les teves fotos a la placa, que van passant soles. En una pantalla (un mòdul de la mida que vulguis) i, si vols, a pantalla sencera quan la placa reposa o fa estona que no la toques.",
+    "en": "A digital photo frame: your photos on the board, changing by themselves. On a screen (a module of any size) and, if you like, full screen when the board is resting or hasn't been touched for a while.",
+    "es": "Un marco de fotos digital: tus fotos en la placa, que van pasando solas. En una pantalla (un módulo del tamaño que quieras) y, si quieres, a pantalla completa cuando la placa reposa o hace rato que no la tocas.",
+    "fr": "Un cadre photo numérique : vos photos sur la carte, qui défilent toutes seules. Sur un écran (un module de la taille voulue) et, si vous voulez, en plein écran quand la carte est au repos ou n'a pas été touchée depuis un moment.",
+    "de": "Ein digitaler Bilderrahmen: deine Fotos auf der Platine, die von selbst wechseln. Auf einem Bildschirm (ein Modul in beliebiger Größe) und auf Wunsch im Vollbild, wenn die Platine ruht oder eine Weile nicht berührt wurde.",
+    "it": "Una cornice digitale: le tue foto sulla scheda, che scorrono da sole. In una schermata (un modulo della dimensione che vuoi) e, se vuoi, a schermo intero quando la scheda è a riposo o non la tocchi da un po'.",
+    "pt": "Uma moldura digital: as tuas fotos na placa, a passar sozinhas. Num ecrã (um módulo do tamanho que quiseres) e, se quiseres, em ecrã inteiro quando a placa está em repouso ou não lhe tocas há algum tempo."
+   },
+   "programes": [
+    {
+     "id": "marc",
+     "nom": "Marc de fotos",
+     "web": ""
+    }
+   ],
+   "icona_url": "data:image/png;base64,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",
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/fotos-1.0.0.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/fotos-1.0.0.zip.sig"
   }
  ]
 }
