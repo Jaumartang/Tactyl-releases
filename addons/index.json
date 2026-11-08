@@ -3,7 +3,7 @@
   {
    "id": "google",
    "nom": "Google",
-   "versio": "1.0.0",
+   "versio": "1.1.0",
    "descripcio": {
     "ca": "Les eines de Google a la placa: Meet, Docs, Sheets, Slides, Gmail i Calendar. Cada programa té els seus botons a l'editor i una pantalla que surt sola quan el tens al davant.",
     "en": "Google's tools on the board: Meet, Docs, Sheets, Slides, Gmail and Calendar. Each program has its buttons in the editor and a screen that shows up by itself when it's in front.",
@@ -14,6 +14,11 @@
     "pt": "As ferramentas do Google na placa: Meet, Docs, Sheets, Slides, Gmail e Calendar. Cada programa tem os seus botões no editor e um ecrã que aparece sozinho quando está à frente."
    },
    "programes": [
+    {
+     "id": "eines",
+     "nom": "Eines",
+     "web": ""
+    },
     {
      "id": "meet",
      "nom": "Meet",
@@ -46,8 +51,8 @@
     }
    ],
    "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACoUlEQVR42u2awW7TQBRFz0siGlUQpaIg9oif4DNY8Cssywp2bPkHFgjxAWxR2cOaBQuEgKpqWlBDctnMVJblOmPHjEPyrmRZScbvju/4eWbeDTgcjl2GpTaUZGsRmalJ+9x8tR2RNOwgzjDlpnLz2arORCUlDYADQC2eslMz+1OO2TdfrQDxQklj4AnwGLjXdCACxzfgNfDczGZVncrNl/IYDiTtS3qn7nAsaRpiW198SfkTzkch0G9JC0nLlscixJCkF0WOPvhqU6DwKI6AT8D98NNgzffSMpy/Ag/M7CKOSk6+cirUkUyA26GNdTChWIh1EOKWByA3Xycq//dwAVwAF8AFcAFcABfABXABXAAXICtsU/jqBJgBJ2Fb2UWBUSHWKfCz8F1ffNUCxL25mV0Cr0Kbebh4nWMeYr0JZaqhmSk3X9OS2ETShw5LVB8lHcb4ffEl5UahMjQBjoBHwJ1wjTV4DAF+AG+Bp2b2fUVRNAtf0suoVKbeL1RWmuLEzGblmH3zNUmH3TRGyh1bY/pSS2vsn/ONWkwtOZGbz1Og7qXk3iDuDbo3mNsbbIut8QbPgV8NuAXsATdJ9AbrpsGiV9fFdBTn9ejVXYTPquADOAMeAl+AYUIfDFiEGO/DMpoavlbrgJy4BD7HJW2D9D0LN5uETRbAgD1J51Ujd037mAKDbRDgakkraeW/vmIbSY3S1WuCLoAL4AK4AC7ADmPT1wEWS2MJ03tsY9sigIB5WAApsT2S5k32Ln0JkDJKN4DDcEODwu6uLp2XwBQYp/LVCRC9ummDTq8aIbHaG4x8t4Djwi4ulWMM3C0IVusNXreuHoXzs0KBYrnmEQsULysKIlV86xREavmalMTcG3Rv0L1B9wavOsYWeoMOh2O38Rcfv3OGL5QV8wAAAABJRU5ErkJggg==",
-   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.0.0.zip",
-   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.0.0.zip.sig"
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.1.0.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.1.0.zip.sig"
   }
  ]
 }
