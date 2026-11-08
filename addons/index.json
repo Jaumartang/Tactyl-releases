@@ -170,6 +170,45 @@
    "icona_url": "data:image/png;base64,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",
    "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/fotos-1.0.0.zip",
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/fotos-1.0.0.zip.sig"
+  },
+  {
+   "id": "domotica",
+   "nom": "Domòtica",
+   "versio": "1.0.0",
+   "descripcio": {
+    "ca": "La casa des de la placa: llums, endolls, persianes i escenes de Home Assistant, Tuya / Smart Life i l'app Casa d'Apple (amb les Dreceres), amb el punt verd o vermell de com estan.",
+    "en": "Your home from the board: lights, plugs, blinds and scenes from Home Assistant, Tuya / Smart Life and Apple's Home app (with Shortcuts), with a green or red dot showing their state.",
+    "es": "La casa desde la placa: luces, enchufes, persianas y escenas de Home Assistant, Tuya / Smart Life y la app Casa de Apple (con Atajos), con el punto verde o rojo de cómo están.",
+    "fr": "La maison depuis la carte : lumières, prises, volets et scènes de Home Assistant, Tuya / Smart Life et l'app Maison d'Apple (avec Raccourcis), avec un point vert ou rouge selon leur état.",
+    "de": "Dein Zuhause auf der Platine: Lichter, Steckdosen, Rollläden und Szenen aus Home Assistant, Tuya / Smart Life und der Home-App von Apple (mit Kurzbefehlen), mit grünem oder rotem Punkt für den Zustand.",
+    "it": "La casa dalla scheda: luci, prese, tapparelle e scene di Home Assistant, Tuya / Smart Life e dell'app Casa di Apple (con Comandi rapidi), con il punto verde o rosso del loro stato.",
+    "pt": "A casa a partir da placa: luzes, tomadas, estores e cenas do Home Assistant, Tuya / Smart Life e da app Casa da Apple (com Atalhos), com o ponto verde ou vermelho do estado."
+   },
+   "programes": [
+    {
+     "id": "llums",
+     "nom": "Llums",
+     "web": ""
+    },
+    {
+     "id": "endolls",
+     "nom": "Endolls",
+     "web": ""
+    },
+    {
+     "id": "persianes",
+     "nom": "Persianes",
+     "web": ""
+    },
+    {
+     "id": "escenes",
+     "nom": "Escenes",
+     "web": ""
+    }
+   ],
+   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAE2ElEQVR42u2aT4gcVRDGq2ZmXTcRd7OSqDFEF9RDRITgSfEiiIcc9KIeAqLgQaNIwKASRAmGHFQ8BBQEQUUPihBERPFgEEQUopKLIor435h/rhGTTbLT/fNSHcrHm93pmZ7untkpWKa3p+e9+r5XVV+9NyMytrGNbWwVGaCArlTwDXfdXGngmy4CmiuKBKBlr7cCB4Gvgduz90Y2JYLVvgdY5P/2cBYJI0eCgW/Y9RMGODUSFoHE7u0Jnx+ZYmegXjCgbfsj8v/rLk2aww4+C/nVwDsGcNGF/zHgkCMhu/8hsGaoSXDg1wOfRsD/BFwDzAHfRd4/CMz5wjmMlX4T8H0E3FfAFe75S4FPIs/9Alw/VCQ48DcDRyKgPgBmXMXPImUK2Bd5/h9gS+1JsCKXgb8LOO3AZAXu1ViBC7rCvfZs4khoA/fVViYDmdsRVPfUrncvJXF+XwDsdFLpx3iqdjIZrN6zbvXaDsRD3axe0CzdHURANt5LjuxGXSr9JPBmJH9P9tLmBu3yfGTcd4ELKpVJB34t8FHEyT+AG3stXo6E64AfI+N/DmyopDg65660zUzo3DfAVf065+bZCByIzPMDcG2pJDinbgB+jzi1H1hXVHi6SLsQeK9DN3nLwEkIZO42y++wQL0FTBadm67oNYGXI/OeBbYObEsdVOdtTpa8RD0XU4YiSXAyucspTOJ8eCx8tuiJn3Yy5/8eL3zi5RfiQVt57wfA84UthAu9FvBKsOqpk7pZA98soQapzTVp+Y/zJ6sLbwPn95WKjulp4H1XfJIIAXNlNSYuGtcCxx0BYfv8MXBxTyS4Ync58GUAnmDSk8DGCgiYjRAQkvAtcHUuhXBhv9n27OGG5gt3iFEXAjI5/CxyuHIIuKkr/xz4LcCJiObuA2asAakbAYeBNcBrkUVbAO5c0kc38CrgV/vgGTfIi1aAJoHfakjAvDtneMalw1m7/ssds51TqpjDKiJZvpwnIk0ReVJVt6kqIjIhIkkNjyRSEWkBqqqPisgjhm/C3m91wBtNgTssd44A9/sOyyLk5xpGwHFg1t6bsNetDse9uXy0XL8o0gwNAwG+YTqHI2atTpGgqn9nGqqqybB9W2M+Nx2OhqqmXRGgqmkGWFUTGVLzCxcD35EA+wCDDOGy5l1uvFJPUjqFYd5nirRWySGZmlY3RYSI/KaqOl+mT60yVx7YJSIPGNhGRMcFeMM0XMqMhDzyk0sG3eemgX9Z3hJgfRfjLSmD3eJqlBxtCxb6aZAC/t4p172NVA3ACPerM2/3Z+x+lhqU5VRV36yoiJwQkc0isklE/gyIkVGMgFhEHLWQr6zYVf0F40SZ+V5HAigz3+tIQOVWNQFaVfGrCwGJiLSrdKAoFch+3RH79bcC0mGlV0d6g37Gq4yAxLadSYdCJ0AS3JsWkQN2fYm9ao/jVU7AKmDKdnlpbJdnqx2m34YQWB/jlUoAbgc3JSL7ZfmT4oa1vD58ibTIecfLIoeyCMj69dRNflkP5Pnxwnt5xks77DOKJ8AK0hnb1fWqIEXLXubHaRFZyHt42zUBqoodbLSB7SKy14pXlVqepdAxEdmhqqfyHqn17Lj9FGbdgFY1DwEqIkdVdaHM06HatdC9+tRPBFTexnp3BnWMP7axjW207T/frs3Cpcen6gAAAABJRU5ErkJggg==",
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/domotica-1.0.0.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/domotica-1.0.0.zip.sig"
   }
  ]
 }
