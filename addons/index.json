@@ -60,60 +60,6 @@
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/reunions-1.0.0.zip.sig"
   },
   {
-   "id": "google",
-   "nom": "Google",
-   "versio": "1.2.0",
-   "descripcio": {
-    "ca": "Les eines de Google a la placa: Meet, Docs, Sheets, Slides, Gmail i Calendar. Cada programa té els seus botons a l'editor i una pantalla que surt sola quan el tens al davant.",
-    "en": "Google's tools on the board: Meet, Docs, Sheets, Slides, Gmail and Calendar. Each program has its buttons in the editor and a screen that shows up by itself when it's in front.",
-    "es": "Las herramientas de Google en la placa: Meet, Docs, Sheets, Slides, Gmail y Calendar. Cada programa tiene sus botones en el editor y una pantalla que aparece sola cuando lo tienes delante.",
-    "fr": "Les outils Google sur la carte : Meet, Docs, Sheets, Slides, Gmail et Calendar. Chaque programme a ses boutons dans l'éditeur et un écran qui s'affiche tout seul quand il est au premier plan.",
-    "de": "Die Google-Werkzeuge auf der Platine: Meet, Docs, Sheets, Slides, Gmail und Calendar. Jedes Programm hat seine Tasten im Editor und einen Bildschirm, der von selbst erscheint, wenn es vorne ist.",
-    "it": "Gli strumenti di Google sulla scheda: Meet, Docs, Sheets, Slides, Gmail e Calendar. Ogni programma ha i suoi pulsanti nell'editor e una schermata che appare da sola quando è in primo piano.",
-    "pt": "As ferramentas do Google na placa: Meet, Docs, Sheets, Slides, Gmail e Calendar. Cada programa tem os seus botões no editor e um ecrã que aparece sozinho quando está à frente."
-   },
-   "programes": [
-    {
-     "id": "eines",
-     "nom": "Eines",
-     "web": ""
-    },
-    {
-     "id": "meet",
-     "nom": "Meet",
-     "web": "meet.google.com"
-    },
-    {
-     "id": "docs",
-     "nom": "Docs",
-     "web": "docs.google.com/document"
-    },
-    {
-     "id": "sheets",
-     "nom": "Sheets",
-     "web": "docs.google.com/spreadsheets"
-    },
-    {
-     "id": "slides",
-     "nom": "Slides",
-     "web": "docs.google.com/presentation"
-    },
-    {
-     "id": "gmail",
-     "nom": "Gmail",
-     "web": "mail.google.com"
-    },
-    {
-     "id": "calendar",
-     "nom": "Calendar",
-     "web": "calendar.google.com"
-    }
-   ],
-   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACoUlEQVR42u2awW7TQBRFz0siGlUQpaIg9oif4DNY8Cssywp2bPkHFgjxAWxR2cOaBQuEgKpqWlBDctnMVJblOmPHjEPyrmRZScbvju/4eWbeDTgcjl2GpTaUZGsRmalJ+9x8tR2RNOwgzjDlpnLz2arORCUlDYADQC2eslMz+1OO2TdfrQDxQklj4AnwGLjXdCACxzfgNfDczGZVncrNl/IYDiTtS3qn7nAsaRpiW198SfkTzkch0G9JC0nLlscixJCkF0WOPvhqU6DwKI6AT8D98NNgzffSMpy/Ag/M7CKOSk6+cirUkUyA26GNdTChWIh1EOKWByA3Xycq//dwAVwAF8AFcAFcABfABXABXAAXICtsU/jqBJgBJ2Fb2UWBUSHWKfCz8F1ffNUCxL25mV0Cr0Kbebh4nWMeYr0JZaqhmSk3X9OS2ETShw5LVB8lHcb4ffEl5UahMjQBjoBHwJ1wjTV4DAF+AG+Bp2b2fUVRNAtf0suoVKbeL1RWmuLEzGblmH3zNUmH3TRGyh1bY/pSS2vsn/ONWkwtOZGbz1Og7qXk3iDuDbo3mNsbbIut8QbPgV8NuAXsATdJ9AbrpsGiV9fFdBTn9ejVXYTPquADOAMeAl+AYUIfDFiEGO/DMpoavlbrgJy4BD7HJW2D9D0LN5uETRbAgD1J51Ujd037mAKDbRDgakkraeW/vmIbSY3S1WuCLoAL4AK4AC7ADmPT1wEWS2MJ03tsY9sigIB5WAApsT2S5k32Ln0JkDJKN4DDcEODwu6uLp2XwBQYp/LVCRC9ummDTq8aIbHaG4x8t4Djwi4ulWMM3C0IVusNXreuHoXzs0KBYrnmEQsULysKIlV86xREavmalMTcG3Rv0L1B9wavOsYWeoMOh2O38Rcfv3OGL5QV8wAAAABJRU5ErkJggg==",
-   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.2.0.zip",
-   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.2.0.zip.sig"
-  },
-  {
    "id": "musica",
    "nom": "Música",
    "versio": "1.0.0",
@@ -263,6 +209,60 @@
    "icona_url": "data:image/png;base64,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",
    "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/adobe-1.0.0.zip",
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/adobe-1.0.0.zip.sig"
+  },
+  {
+   "id": "google",
+   "nom": "Google",
+   "versio": "1.2.1",
+   "descripcio": {
+    "ca": "Les eines de Google a la placa: Meet, Docs, Sheets, Slides, Gmail i Calendar. Cada programa té els seus botons a l'editor i una pantalla que surt sola quan el tens al davant.",
+    "en": "Google's tools on the board: Meet, Docs, Sheets, Slides, Gmail and Calendar. Each program has its buttons in the editor and a screen that shows up by itself when it's in front.",
+    "es": "Las herramientas de Google en la placa: Meet, Docs, Sheets, Slides, Gmail y Calendar. Cada programa tiene sus botones en el editor y una pantalla que aparece sola cuando lo tienes delante.",
+    "fr": "Les outils Google sur la carte : Meet, Docs, Sheets, Slides, Gmail et Calendar. Chaque programme a ses boutons dans l'éditeur et un écran qui s'affiche tout seul quand il est au premier plan.",
+    "de": "Die Google-Werkzeuge auf der Platine: Meet, Docs, Sheets, Slides, Gmail und Calendar. Jedes Programm hat seine Tasten im Editor und einen Bildschirm, der von selbst erscheint, wenn es vorne ist.",
+    "it": "Gli strumenti di Google sulla scheda: Meet, Docs, Sheets, Slides, Gmail e Calendar. Ogni programma ha i suoi pulsanti nell'editor e una schermata che appare da sola quando è in primo piano.",
+    "pt": "As ferramentas do Google na placa: Meet, Docs, Sheets, Slides, Gmail e Calendar. Cada programa tem os seus botões no editor e um ecrã que aparece sozinho quando está à frente."
+   },
+   "programes": [
+    {
+     "id": "eines",
+     "nom": "Eines",
+     "web": ""
+    },
+    {
+     "id": "meet",
+     "nom": "Meet",
+     "web": "meet.google.com"
+    },
+    {
+     "id": "docs",
+     "nom": "Docs",
+     "web": "docs.google.com/document"
+    },
+    {
+     "id": "sheets",
+     "nom": "Sheets",
+     "web": "docs.google.com/spreadsheets"
+    },
+    {
+     "id": "slides",
+     "nom": "Slides",
+     "web": "docs.google.com/presentation"
+    },
+    {
+     "id": "gmail",
+     "nom": "Gmail",
+     "web": "mail.google.com"
+    },
+    {
+     "id": "calendar",
+     "nom": "Calendar",
+     "web": "calendar.google.com"
+    }
+   ],
+   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACiUlEQVR42u2awW7TQBRFz0ssGlUQBbUg9oif4DNY8Cssywp2bPmHLhDiA9iisoc1CxYIAVXVtKCG5rJ5g6zKdcaO44TwnmRZScbvju94PG/uDURERPzPYbkNJdlSQGZq0r5vvNqOSBp2kGeYc1N949miziQmJQ2A24BaPGUnZvb7as5149USkC6UNAKeAI+Be00HwjG+Aq+A52Y2repU33g5j+FA0q6kt+oujiRNPLetCy9r/vj5wBP9knQpad7yuPQckvSijLEOvNopUHoUC+AjcN9/Giz5Xpr7+QvwwMzO06j0iXd1KtSBjIE9b2N0s+SmF9texQD0jdcJy/98BAFBQBAQBAQBQUAQEAQEAUFAEMBGapGrxqsjYAoc+7ayC4FRnusE+FH6bl141QSkvbmZXQCH3mbmFy9zzDzXa5ephmamvvGaSmJjSe87lKg+SNpP+deF11QUHQMHwCPgjl9jDR5DgO/AG+CpmX1bIIr2gtdGFt8tKStN49jMpg1l8ZXjhTHSwhpru3yppTW2cryixdLSZ/SNF1MgvMHwBsMb3ChvsG1sjTd4BvxsgC1gB7iZ6w0Wmd6gOtqSWsmrO/fPqsADOAUeAp+BYUYfDLj0HO+8jKYGr1Ud0GdcAJ9SSdtg+p76zbKKQqhvEWNH0lnVyF3TPk2BwTYQ8LeklbTwX1+pjSSFJhgEBAFBQBAQBAQBW1EHWJLGMpb31Ma2hQABMy+AlCufSZo12bsUG+wN3gD2/YYGpd1d3XSeAxNglItXZHiDk44MzTSSi7zBhHcLOCrt4nIxRsDdEmG13uB1dXXh52clgWK+5JEEipcVgkgV3jKCSC1eeIPhDYY3GMZIeIMRERERwB8fv3OGuK4K7gAAAABJRU5ErkJggg==",
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.2.1.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.2.1.zip.sig"
   }
  ]
 }
