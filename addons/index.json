@@ -1,65 +1,6 @@
 {
  "addons": [
   {
-   "id": "reunions",
-   "nom": "Reunions",
-   "versio": "1.0.0",
-   "descripcio": {
-    "ca": "Les reunions a la placa: Meet, Zoom, Teams, FaceTime, Webex, Slack i Discord, cadascun amb les seves dreceres i una pantalla que surt sola quan el tens al davant. Els botons de càmera mostren si la càmera és encesa.",
-    "en": "Meetings on the board: Meet, Zoom, Teams, FaceTime, Webex, Slack and Discord, each with its shortcuts and a screen that shows up by itself when it's in front. The camera buttons show whether the camera is on.",
-    "es": "Las reuniones en la placa: Meet, Zoom, Teams, FaceTime, Webex, Slack y Discord, cada uno con sus atajos y una pantalla que aparece sola cuando lo tienes delante. Los botones de cámara muestran si la cámara está encendida.",
-    "fr": "Les réunions sur la carte : Meet, Zoom, Teams, FaceTime, Webex, Slack et Discord, chacun avec ses raccourcis et un écran qui s'affiche tout seul quand il est au premier plan. Les boutons caméra indiquent si la caméra est allumée.",
-    "de": "Meetings auf der Platine: Meet, Zoom, Teams, FaceTime, Webex, Slack und Discord, jeweils mit ihren Tastenkombinationen und einem Bildschirm, der von selbst erscheint, wenn die App vorne ist. Die Kamera-Tasten zeigen, ob die Kamera an ist.",
-    "it": "Le riunioni sulla scheda: Meet, Zoom, Teams, FaceTime, Webex, Slack e Discord, ognuno con le sue scorciatoie e una schermata che appare da sola quando è in primo piano. I pulsanti della fotocamera mostrano se è accesa.",
-    "pt": "As reuniões na placa: Meet, Zoom, Teams, FaceTime, Webex, Slack e Discord, cada um com os seus atalhos e um ecrã que aparece sozinho quando está à frente. Os botões da câmara mostram se a câmara está ligada."
-   },
-   "programes": [
-    {
-     "id": "general",
-     "nom": "General",
-     "web": ""
-    },
-    {
-     "id": "meet",
-     "nom": "Meet",
-     "web": "meet.google.com"
-    },
-    {
-     "id": "zoom",
-     "nom": "Zoom",
-     "web": ""
-    },
-    {
-     "id": "teams",
-     "nom": "Teams",
-     "web": ""
-    },
-    {
-     "id": "facetime",
-     "nom": "FaceTime",
-     "web": ""
-    },
-    {
-     "id": "webex",
-     "nom": "Webex",
-     "web": ""
-    },
-    {
-     "id": "slack",
-     "nom": "Slack",
-     "web": ""
-    },
-    {
-     "id": "discord",
-     "nom": "Discord",
-     "web": ""
-    }
-   ],
-   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAESUlEQVR42u2aT2icVRTFf2dmQm1DovEPYhRdaEC6EDfqSqUuBDFqQFCMghshXSl0YRfiWlDQpQ104SbgtqhbkW6k6sJClwpqqa7apLWNqZmZ48L74Pk5mXyJM2MmfQcGvsxM3rv3vnvPu++8gYKCgoKCgoKCgoKCgoKCGw6q+0XbGplRkvdMhGw3bDdHPGfTdmNAY6nf4mk75yV143kCmAY85Iy8Kul6df7dBlJSp99Y2s5523PAMeAIcEcEYBjlkMa9BJwGPpJ0Lndih+WqsF9AQ1LHtmqVV0o/20/bXvX/g2u2F3J76q569vyK7e9tn7P9TK2xouZl+37bV8KYP21vjsjxdsxn2xu2Hwp7mjVqvRnPs7ZXKuOet32oygmt3iSsru3jwBSwCUzEZ2tAZ4gl0ABmgGbMewB4R9LLtuvUesf2IvABMBu2plK/Fbhd0i+RBf5XAKJGOrYPAE9V6v1dYDne6w4hACk1XwU+jL8NPGl7StLv1Rqu1PdsOL4YH7cjkCkArkse2L7N9sUsfdZsT45w271Q4YL7qvVbqfXF7H/alXLtZuPcWx2n1Scdc7SBg7bXa0dzd1uggUOR/j3tqbHqCr+uRwkcrJN2dYzrRvpZ0sBfadwor604phnfT7X+bTjfCedbkfZfAY8Dv23HVw3GCJI2bd9tewVYCaJrR4a0gHXgePDXd0GifdEaE99TXzIPnATujFV35sNp4E1JZ+O7U3XIehwyQEDbdgs4Ec5vhu1p1d8Gjkg6a3sieKJW9zguGZDIbDJWvVld9WhwGkBbkvv1DeMYALL+Q/FaA16QtGa7Jan9d+bv7Ng+ViRYYfQukI7Nnf9ELjeCoLNfAuCK7Rtxxm/eKAFoZFwwDXxq+wFJ7WihG/s1AGm7uxhpn06kzwLf2F6S1I1saO23ADha4C7wFrAax/NudIEzwAnbn9mei25RdX0blwzoRiv8BfAo8HnUfSuC0AHmgTO2j8aZYr2Of2PFAbYnJP0g6TngaGRDKzsJzgAf2z4FPBgnwoEFoJHExiQrDfKVxs2IrmdHmMhO0jLw2BbZ8DzwdbTNO1ZTkyByKRMVVkcsiJzP5l7fQhBpZc9Lmb0DEUSuRat5S9TfzcAbtk8mbWCIW9xLwF2xkg3gatjyjz4gbX3xvGz7y5DS5rOSaPUReXp3UklgtP0J8HpFFL2QbUGDVIWUiaL3xHtp3lOSFvpdkmRnAWwvAe8FH+Si6AZwWNLPfS9cMln8sO0/Mlm8MyJZvJPJ4m3bj1Q1wD52J91gLrbFHL/antzuqoy8RmwvZEEYNTZtv1at2RocUuWGH23/ZPvFXmP1uxpLpfBwCA5PBCcM85bYwJVg8PclndnN/WDS/UMXuClE1PUdn6Yql6PTQYYw3LvBy5IuV+ff5Y6y7eVo3W1p1NfjjT1xPd6jRxjFjyS8p34gUVBQUFBQUFBQUFBQUFCw//AXRSyLmxWkFB8AAAAASUVORK5CYII=",
-   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/reunions-1.0.0.zip",
-   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/reunions-1.0.0.zip.sig"
-  },
-  {
    "id": "musica",
    "nom": "Música",
    "versio": "1.0.0",
@@ -263,6 +204,65 @@
    "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACiUlEQVR42u2awW7TQBRFz0ssGlUQBbUg9oif4DNY8Cssywp2bPmHLhDiA9iisoc1CxYIAVXVtKCG5rJ5g6zKdcaO44TwnmRZScbvju94PG/uDURERPzPYbkNJdlSQGZq0r5vvNqOSBp2kGeYc1N949miziQmJQ2A24BaPGUnZvb7as5149USkC6UNAKeAI+Be00HwjG+Aq+A52Y2repU33g5j+FA0q6kt+oujiRNPLetCy9r/vj5wBP9knQpad7yuPQckvSijLEOvNopUHoUC+AjcN9/Giz5Xpr7+QvwwMzO06j0iXd1KtSBjIE9b2N0s+SmF9texQD0jdcJy/98BAFBQBAQBAQBQUAQEAQEAUFAEMBGapGrxqsjYAoc+7ayC4FRnusE+FH6bl141QSkvbmZXQCH3mbmFy9zzDzXa5ephmamvvGaSmJjSe87lKg+SNpP+deF11QUHQMHwCPgjl9jDR5DgO/AG+CpmX1bIIr2gtdGFt8tKStN49jMpg1l8ZXjhTHSwhpru3yppTW2cryixdLSZ/SNF1MgvMHwBsMb3ChvsG1sjTd4BvxsgC1gB7iZ6w0Wmd6gOtqSWsmrO/fPqsADOAUeAp+BYUYfDLj0HO+8jKYGr1Ud0GdcAJ9SSdtg+p76zbKKQqhvEWNH0lnVyF3TPk2BwTYQ8LeklbTwX1+pjSSFJhgEBAFBQBAQBAQBW1EHWJLGMpb31Ma2hQABMy+AlCufSZo12bsUG+wN3gD2/YYGpd1d3XSeAxNglItXZHiDk44MzTSSi7zBhHcLOCrt4nIxRsDdEmG13uB1dXXh52clgWK+5JEEipcVgkgV3jKCSC1eeIPhDYY3GMZIeIMRERERwB8fv3OGuK4K7gAAAABJRU5ErkJggg==",
    "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.2.1.zip",
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/google-1.2.1.zip.sig"
+  },
+  {
+   "id": "reunions",
+   "nom": "Reunions",
+   "versio": "1.0.1",
+   "descripcio": {
+    "ca": "Les reunions a la placa: Meet, Zoom, Teams, FaceTime, Webex, Slack i Discord, cadascun amb les seves dreceres i una pantalla que surt sola quan el tens al davant. Els botons de càmera mostren si la càmera és encesa.",
+    "en": "Meetings on the board: Meet, Zoom, Teams, FaceTime, Webex, Slack and Discord, each with its shortcuts and a screen that shows up by itself when it's in front. The camera buttons show whether the camera is on.",
+    "es": "Las reuniones en la placa: Meet, Zoom, Teams, FaceTime, Webex, Slack y Discord, cada uno con sus atajos y una pantalla que aparece sola cuando lo tienes delante. Los botones de cámara muestran si la cámara está encendida.",
+    "fr": "Les réunions sur la carte : Meet, Zoom, Teams, FaceTime, Webex, Slack et Discord, chacun avec ses raccourcis et un écran qui s'affiche tout seul quand il est au premier plan. Les boutons caméra indiquent si la caméra est allumée.",
+    "de": "Meetings auf der Platine: Meet, Zoom, Teams, FaceTime, Webex, Slack und Discord, jeweils mit ihren Tastenkombinationen und einem Bildschirm, der von selbst erscheint, wenn die App vorne ist. Die Kamera-Tasten zeigen, ob die Kamera an ist.",
+    "it": "Le riunioni sulla scheda: Meet, Zoom, Teams, FaceTime, Webex, Slack e Discord, ognuno con le sue scorciatoie e una schermata che appare da sola quando è in primo piano. I pulsanti della fotocamera mostrano se è accesa.",
+    "pt": "As reuniões na placa: Meet, Zoom, Teams, FaceTime, Webex, Slack e Discord, cada um com os seus atalhos e um ecrã que aparece sozinho quando está à frente. Os botões da câmara mostram se a câmara está ligada."
+   },
+   "programes": [
+    {
+     "id": "general",
+     "nom": "General",
+     "web": ""
+    },
+    {
+     "id": "meet",
+     "nom": "Meet",
+     "web": "meet.google.com"
+    },
+    {
+     "id": "zoom",
+     "nom": "Zoom",
+     "web": ""
+    },
+    {
+     "id": "teams",
+     "nom": "Teams",
+     "web": ""
+    },
+    {
+     "id": "facetime",
+     "nom": "FaceTime",
+     "web": ""
+    },
+    {
+     "id": "webex",
+     "nom": "Webex",
+     "web": ""
+    },
+    {
+     "id": "slack",
+     "nom": "Slack",
+     "web": ""
+    },
+    {
+     "id": "discord",
+     "nom": "Discord",
+     "web": ""
+    }
+   ],
+   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEOElEQVR42u2aT2hcVRTGf9+bCbUNicY/iFF0oQHpQtyoK5W6EMSoAUExCm6EdKXgwi7EtaCgSxvowk3AbVG3It1I1YWFLhXUUl21SWsbUzMznwvPheszmbykmTGT3g8e3My8ufecc88599zvBAoKCgoKCgoKCgoKCgoKbjio6Yu2NTShJO8ZC9mubLeGvGbLdrVLc6nf5mkr5SX1YjwGTAIesEdekXStvv5ODSmp228ubaW87RngbeAIcEcYYBDhkOa9CJwCPpZ0Nldim+GqkF9AJalrW43CK7mf7adtL/v/wVXbc7k8TXc9G79i+wfbZ20/02iuiHnZvt/25RDmL9vrQ1K8E+vZ9prth0KeVoNYb8V42vZSbd5ztg/Vc0J74ySsnu1jwASwDozFdytAd4AhUAFTQCvWPQC8K+ll201ivWt7HvgQmA5ZU6jfCtwu6dfwAv/HABEjXdsHgKdq8f4esBif9QZggOSarwIfxd8GnrQ9IemPegzX4ns6FJ+PrzthyGQANz7rbd9m+0LmPiu2x4d47J6v5YL76vFbi/X57DedWrj2snnurc/T7uOOOTrAQdurja25syPQwKFw/w3labDrCr2uRQgcbOJ2TYTrhftZ0q4/ad4Ir81yTCveT7H+XSjfDeXb4fZfA48Dv2+VrypGCJLWbd9tewlYikTXCQ9pA6vAschf30cS7Yv2iOie6pJZ4ARwZ+y6Mx1OAW9KOhPvTjRJ1tWIXNg6ttvA8VB+PWRPu/4OcETSGdtjkScaVY+j4gEpmY3Hrrfqux4FTgV0JLlf3TCKBiCrPxTPCvCCpBXbbUmdfzx/e9f2kUqCtYzeA9K1uXu91de+J3T2iwFck30t7vitG8UAVZYLJoHPbD8gqRMldLVfDZCOuwvh9ulG+izwre0FSb3whvZ+M4CjBO4BbwHLcT3vRRU4BRy3/bntmagW1VS3UfGAXpTCXwKPAl9E3LfDCF1gFjht+2jcKVab6DdSOcD2mKQfJT0HHA1vaGc3wSngE9sngQfjRrhrBqgS2Zhopd180rxZotuwIkzJTtIi8Ngm3vA88E2UzdtmUxMhcjEjFZaHTIicy9Ze3YQQaWfjhUzeXSFErkapeUvE383AG7ZPJG5ggEfcS8BdsZMVcCVk+VcdkI6+GC/a/iqotNksJNp9SJ6NK6lEMNr+FHi9Roqez44gD4ANqoB74rO07klJc/2aJNldANsLwPuRD3JSdA04LOmXvg2XjBY/bPvPjBbvDokW72a0eMf2I3UOsI/ciTeYiWMxx2+2x7dqldUbI3OZEYaNdduv7aAxUs8NP9n+2faLG82lrbh22w8H4fBE5AQNuOi5HBn8A0mnd9IfTLx/8AI3BYm6er3N0clIhgy4N3hJ0qVhNUf3anu82hPt8Y06rsPQf0/9g0RBQUFBQUFBQUFBQUFBwf7D30Usi5s1Gw2/AAAAAElFTkSuQmCC",
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/reunions-1.0.1.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/reunions-1.0.1.zip.sig"
   }
  ]
 }
