@@ -231,40 +231,6 @@
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/reunions-1.0.1.zip.sig"
   },
   {
-   "id": "musica",
-   "nom": "Música",
-   "versio": "1.0.1",
-   "descripcio": {
-    "ca": "La música a la placa: la caràtula del que sona (a Música, Spotify, Amazon Music, YouTube…), el títol, el temps i els controls, el volum, i les dreceres de Spotify i de YouTube.",
-    "en": "Music on the board: the cover of what's playing (in Music, Spotify, Amazon Music, YouTube…), the title, the time and the controls, the volume, and the Spotify and YouTube shortcuts.",
-    "es": "La música en la placa: la carátula de lo que suena (en Música, Spotify, Amazon Music, YouTube…), el título, el tiempo y los controles, el volumen y los atajos de Spotify y de YouTube.",
-    "fr": "La musique sur la carte : la pochette de ce qui joue (Musique, Spotify, Amazon Music, YouTube…), le titre, le temps et les commandes, le volume, et les raccourcis de Spotify et YouTube.",
-    "de": "Musik auf der Platine: das Cover von dem, was läuft (Musik, Spotify, Amazon Music, YouTube…), Titel, Zeit und Steuerung, die Lautstärke und die Tastenkürzel von Spotify und YouTube.",
-    "it": "La musica sulla scheda: la copertina di ciò che suona (Musica, Spotify, Amazon Music, YouTube…), il titolo, il tempo e i controlli, il volume e le scorciatoie di Spotify e YouTube.",
-    "pt": "A música na placa: a capa do que toca (Música, Spotify, Amazon Music, YouTube…), o título, o tempo e os controlos, o volume e os atalhos do Spotify e do YouTube."
-   },
-   "programes": [
-    {
-     "id": "ara",
-     "nom": "Ara sona",
-     "web": ""
-    },
-    {
-     "id": "spotify",
-     "nom": "Spotify",
-     "web": ""
-    },
-    {
-     "id": "youtube",
-     "nom": "YouTube",
-     "web": "youtube.com/watch"
-    }
-   ],
-   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEHUlEQVR42u2aP4gdVRTGvzOzuzGySvxLoog2xg0JixpBULSwMBhEBS0sIoJgESxDQEghNoJgo2BhbWmfYGFhoxAVlARNBP+BYAxLNmQjSTZv5mdzrl4e8/7PfW9edj5YZt6+mTPn++bec84990ktWrRo0aJFixYttiasTmPAf/bMjHmwbTU4lblTRcX3uZ+Wozqd0vbEAgTnuh0DbpG0JGnTzDYqHB7obErbtQgAZGZW+vmtkg5Iek7SqqRdkrZLuirpnKRTkj6XdMLM1rvvn6btuuZh7scl4AjwO8PhT+AYcHPX8J2K7brJrwBfRw50gOtAAZTRX+H/70TXfg880u1oStt1k38SOO8PDI4Ng9KvB7gEPBvsAlkq23WRDw7uBtYiB8dBeGMbwMMh6CW0nU2ce4HM5+U3EzrY7egZYLuPgm9rtv0TsOy+9w30gxQKUfUtSY9J6khamHBQ5W7nIUmHJb0uaX/NtlckHXXfs7HSIGBmhuffM56GGEK0oQaXH9clFZLurLEyDbYvStptZmuBy6gjIASRA5LukVTWRD4QNUm3S7or+lyX7VLSbZJe6uIykgBBsef9nBTZNZHdYPtgKJdHEsADR+nHVVc1U5rFmCW0uw9YNLOyVzDsScrnzLKknSlWjlNa5d7tU2HsLLAk6aY5Xu4v+fqh5wscJMB1SdfmWIDNyH/GEeCypL/7GWgogq9rki6MPAU8/+deSJx2g+WcCYCkH81s05fJI4+AMGeOJ4zWqQPhiYHBfohKcIeks16wkCgdpnj7lyWtmNlf/RolfdOgT4OLkj6MKqymo3Benzj5vF+XyIboz5mkbZJOStrnD8gbTD6X9JukRyVdkkS/XmH/lZLfaGZXJB3yYZX7g5pK/pqkQz5ybVCjdOB89jIyN7MfJL0cidBpSGrE65Xc8/6rZvaV+1zU2RZb8ON+4FTUhCiYHeJnnwWemlZjdBl4N+rhFTMkfwF437NVOvLdPUI/3wl8WVM7a5zW13fA/RW7RUotggGLfn4HcLrLsWmQ/wW4131YHNT7Sz0lHgD+mIIIYdifB/ZM9a0PIcIqsJ4wJoTNkX+AJ+LAPPs89H+GeAa4GjlbF8JuUAG80CjyFSK8Ek2FsibyIcC+0UjykQghMB6OMsOkIgTybzeafMVIeKeG9Bju/WAuyEcpMojwsRPYnID8p9FG6nz0JFyEkB0+G2MkhGuPAwvD7PE1VYQM2AZ8MYIIoY446SW3TbzLO0MRwtb6Dv8Bw6BCKXz3M7Crli3uBogQpsJ9wK99RAjF0zngwUZUeQlE2Bv9EKKoqPI2gMdvKPIV6fFp4EqP3/wcnJt0N6EILzrxThQYX7uhyVeI8GY0BY5sCfIVIrwHfLSlyPfoLGXaivAix9SiRYsWLVq0mAX+BRAMutYkzlyIAAAAAElFTkSuQmCC",
-   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.0.1.zip",
-   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.0.1.zip.sig"
-  },
-  {
    "id": "programacio",
    "nom": "Programació",
    "versio": "1.0.0",
@@ -311,6 +277,40 @@
    "icona_url": "data:image/png;base64,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",
    "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/streaming-1.0.0.zip",
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/streaming-1.0.0.zip.sig"
+  },
+  {
+   "id": "musica",
+   "nom": "Música",
+   "versio": "1.1.0",
+   "descripcio": {
+    "ca": "La música a la placa: la caràtula del que sona (a Música, Spotify, Amazon Music, YouTube…), el títol, el temps i els controls, el volum, i les dreceres de Spotify i de YouTube.",
+    "en": "Music on the board: the cover of what's playing (in Music, Spotify, Amazon Music, YouTube…), the title, the time and the controls, the volume, and the Spotify and YouTube shortcuts.",
+    "es": "La música en la placa: la carátula de lo que suena (en Música, Spotify, Amazon Music, YouTube…), el título, el tiempo y los controles, el volumen y los atajos de Spotify y de YouTube.",
+    "fr": "La musique sur la carte : la pochette de ce qui joue (Musique, Spotify, Amazon Music, YouTube…), le titre, le temps et les commandes, le volume, et les raccourcis de Spotify et YouTube.",
+    "de": "Musik auf der Platine: das Cover von dem, was läuft (Musik, Spotify, Amazon Music, YouTube…), Titel, Zeit und Steuerung, die Lautstärke und die Tastenkürzel von Spotify und YouTube.",
+    "it": "La musica sulla scheda: la copertina di ciò che suona (Musica, Spotify, Amazon Music, YouTube…), il titolo, il tempo e i controlli, il volume e le scorciatoie di Spotify e YouTube.",
+    "pt": "A música na placa: a capa do que toca (Música, Spotify, Amazon Music, YouTube…), o título, o tempo e os controlos, o volume e os atalhos do Spotify e do YouTube."
+   },
+   "programes": [
+    {
+     "id": "ara",
+     "nom": "Ara sona",
+     "web": ""
+    },
+    {
+     "id": "spotify",
+     "nom": "Spotify",
+     "web": ""
+    },
+    {
+     "id": "youtube",
+     "nom": "YouTube",
+     "web": "youtube.com/watch"
+    }
+   ],
+   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEHUlEQVR42u2aP4gdVRTGvzOzuzGySvxLoog2xg0JixpBULSwMBhEBS0sIoJgESxDQEghNoJgo2BhbWmfYGFhoxAVlARNBP+BYAxLNmQjSTZv5mdzrl4e8/7PfW9edj5YZt6+mTPn++bec84990ktWrRo0aJFixYttiasTmPAf/bMjHmwbTU4lblTRcX3uZ+Wozqd0vbEAgTnuh0DbpG0JGnTzDYqHB7obErbtQgAZGZW+vmtkg5Iek7SqqRdkrZLuirpnKRTkj6XdMLM1rvvn6btuuZh7scl4AjwO8PhT+AYcHPX8J2K7brJrwBfRw50gOtAAZTRX+H/70TXfg880u1oStt1k38SOO8PDI4Ng9KvB7gEPBvsAlkq23WRDw7uBtYiB8dBeGMbwMMh6CW0nU2ce4HM5+U3EzrY7egZYLuPgm9rtv0TsOy+9w30gxQKUfUtSY9J6khamHBQ5W7nIUmHJb0uaX/NtlckHXXfs7HSIGBmhuffM56GGEK0oQaXH9clFZLurLEyDbYvStptZmuBy6gjIASRA5LukVTWRD4QNUm3S7or+lyX7VLSbZJe6uIykgBBsef9nBTZNZHdYPtgKJdHEsADR+nHVVc1U5rFmCW0uw9YNLOyVzDsScrnzLKknSlWjlNa5d7tU2HsLLAk6aY5Xu4v+fqh5wscJMB1SdfmWIDNyH/GEeCypL/7GWgogq9rki6MPAU8/+deSJx2g+WcCYCkH81s05fJI4+AMGeOJ4zWqQPhiYHBfohKcIeks16wkCgdpnj7lyWtmNlf/RolfdOgT4OLkj6MKqymo3Benzj5vF+XyIboz5mkbZJOStrnD8gbTD6X9JukRyVdkkS/XmH/lZLfaGZXJB3yYZX7g5pK/pqkQz5ybVCjdOB89jIyN7MfJL0cidBpSGrE65Xc8/6rZvaV+1zU2RZb8ON+4FTUhCiYHeJnnwWemlZjdBl4N+rhFTMkfwF437NVOvLdPUI/3wl8WVM7a5zW13fA/RW7RUotggGLfn4HcLrLsWmQ/wW4131YHNT7Sz0lHgD+mIIIYdifB/ZM9a0PIcIqsJ4wJoTNkX+AJ+LAPPs89H+GeAa4GjlbF8JuUAG80CjyFSK8Ek2FsibyIcC+0UjykQghMB6OMsOkIgTybzeafMVIeKeG9Bju/WAuyEcpMojwsRPYnID8p9FG6nz0JFyEkB0+G2MkhGuPAwvD7PE1VYQM2AZ8MYIIoY446SW3TbzLO0MRwtb6Dv8Bw6BCKXz3M7Crli3uBogQpsJ9wK99RAjF0zngwUZUeQlE2Bv9EKKoqPI2gMdvKPIV6fFp4EqP3/wcnJt0N6EILzrxThQYX7uhyVeI8GY0BY5sCfIVIrwHfLSlyPfoLGXaivAix9SiRYsWLVq0mAX+BRAMutYkzlyIAAAAAElFTkSuQmCC",
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.1.0.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.1.0.zip.sig"
   }
  ]
 }
