@@ -263,6 +263,30 @@
    "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEHUlEQVR42u2aP4gdVRTGvzOzuzGySvxLoog2xg0JixpBULSwMBhEBS0sIoJgESxDQEghNoJgo2BhbWmfYGFhoxAVlARNBP+BYAxLNmQjSTZv5mdzrl4e8/7PfW9edj5YZt6+mTPn++bec84990ktWrRo0aJFixYttiasTmPAf/bMjHmwbTU4lblTRcX3uZ+Wozqd0vbEAgTnuh0DbpG0JGnTzDYqHB7obErbtQgAZGZW+vmtkg5Iek7SqqRdkrZLuirpnKRTkj6XdMLM1rvvn6btuuZh7scl4AjwO8PhT+AYcHPX8J2K7brJrwBfRw50gOtAAZTRX+H/70TXfg880u1oStt1k38SOO8PDI4Ng9KvB7gEPBvsAlkq23WRDw7uBtYiB8dBeGMbwMMh6CW0nU2ce4HM5+U3EzrY7egZYLuPgm9rtv0TsOy+9w30gxQKUfUtSY9J6khamHBQ5W7nIUmHJb0uaX/NtlckHXXfs7HSIGBmhuffM56GGEK0oQaXH9clFZLurLEyDbYvStptZmuBy6gjIASRA5LukVTWRD4QNUm3S7or+lyX7VLSbZJe6uIykgBBsef9nBTZNZHdYPtgKJdHEsADR+nHVVc1U5rFmCW0uw9YNLOyVzDsScrnzLKknSlWjlNa5d7tU2HsLLAk6aY5Xu4v+fqh5wscJMB1SdfmWIDNyH/GEeCypL/7GWgogq9rki6MPAU8/+deSJx2g+WcCYCkH81s05fJI4+AMGeOJ4zWqQPhiYHBfohKcIeks16wkCgdpnj7lyWtmNlf/RolfdOgT4OLkj6MKqymo3Benzj5vF+XyIboz5mkbZJOStrnD8gbTD6X9JukRyVdkkS/XmH/lZLfaGZXJB3yYZX7g5pK/pqkQz5ybVCjdOB89jIyN7MfJL0cidBpSGrE65Xc8/6rZvaV+1zU2RZb8ON+4FTUhCiYHeJnnwWemlZjdBl4N+rhFTMkfwF437NVOvLdPUI/3wl8WVM7a5zW13fA/RW7RUotggGLfn4HcLrLsWmQ/wW4131YHNT7Sz0lHgD+mIIIYdifB/ZM9a0PIcIqsJ4wJoTNkX+AJ+LAPPs89H+GeAa4GjlbF8JuUAG80CjyFSK8Ek2FsibyIcC+0UjykQghMB6OMsOkIgTybzeafMVIeKeG9Bju/WAuyEcpMojwsRPYnID8p9FG6nz0JFyEkB0+G2MkhGuPAwvD7PE1VYQM2AZ8MYIIoY446SW3TbzLO0MRwtb6Dv8Bw6BCKXz3M7Crli3uBogQpsJ9wK99RAjF0zngwUZUeQlE2Bv9EKKoqPI2gMdvKPIV6fFp4EqP3/wcnJt0N6EILzrxThQYX7uhyVeI8GY0BY5sCfIVIrwHfLSlyPfoLGXaivAix9SiRYsWLVq0mAX+BRAMutYkzlyIAAAAAElFTkSuQmCC",
    "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.0.1.zip",
    "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/musica-1.0.1.zip.sig"
+  },
+  {
+   "id": "programacio",
+   "nom": "Programació",
+   "versio": "1.0.0",
+   "descripcio": {
+    "ca": "Programar amb la placa al costat: el VS Code amb les seves dreceres (paleta d'ordres, terminal, Git, depurar pas a pas) i les de PlatformIO (compilar, pujar a la placa, monitor sèrie). Quan el VS Code és al davant, la seva pantalla surt sola.",
+    "en": "Coding with the board beside you: VS Code with its shortcuts (command palette, terminal, Git, step-by-step debugging) and PlatformIO's (build, upload to the board, serial monitor). When VS Code is in front, its screen shows up by itself.",
+    "es": "Programar con la placa al lado: VS Code con sus atajos (paleta de comandos, terminal, Git, depurar paso a paso) y los de PlatformIO (compilar, subir a la placa, monitor serie). Cuando VS Code está delante, su pantalla sale sola.",
+    "fr": "Programmer avec la carte à côté : VS Code avec ses raccourcis (palette de commandes, terminal, Git, débogage pas à pas) et ceux de PlatformIO (compiler, téléverser sur la carte, moniteur série). Quand VS Code est au premier plan, son écran s'affiche tout seul.",
+    "de": "Programmieren mit dem Board daneben: VS Code mit seinen Kurzbefehlen (Befehlspalette, Terminal, Git, schrittweises Debuggen) und denen von PlatformIO (kompilieren, auf das Board hochladen, serieller Monitor). Wenn VS Code vorne ist, erscheint sein Bildschirm von selbst.",
+    "it": "Programmare con la scheda accanto: VS Code con le sue scorciatoie (tavolozza dei comandi, terminale, Git, debug passo passo) e quelle di PlatformIO (compilare, caricare sulla scheda, monitor seriale). Quando VS Code è in primo piano, la sua schermata compare da sola.",
+    "pt": "Programar com a placa ao lado: o VS Code com os seus atalhos (paleta de comandos, terminal, Git, depurar passo a passo) e os do PlatformIO (compilar, enviar para a placa, monitor série). Quando o VS Code está à frente, o seu ecrã aparece sozinho."
+   },
+   "programes": [
+    {
+     "id": "vscode",
+     "nom": "VS Code",
+     "web": ""
+    }
+   ],
+   "icona_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAEmklEQVR42u2aTYgdRRDHq+dNNnFXMDE5rXpbv/AimyAEwShGEIKKhxUjejCCB09CPOdDPAaCiBfBQxANCB6UiBeRGHIRCUFPogbEDyIxH+smEpO8935eqrFsOvumZ+a9jLyuSz/ezFRXVVdV17+6RTJlypQpU6ZMmTJ1gwAHuGlVvoj9npqV13EdMDuVKw/sAE4BPwHPTIUn+JgH1gI/8y9dADZY7xgHFR1IYs45h4jcKyLzIjIQkaGOvXEnx6JtV3bO4ZwjwXX9ew+rwn3972vn3Fnl4wzfXicNoMoPfRJzzg0rfurf2x78/7mOvYDvoHN5ASh1fDIliZnMvwE4q7E/BAbAonnPJsedds4uKb8duGKS2Hng1tWSmHdn4HH95pqOPwBr9dks8Av/pafbMkLRUPmec64PPCAiH4nIjIhcMwlsVNJygfv3dTzmnLvi4195DZX3UEQOA4/q3OWNWnm/evcAv+vK9M0qvmLfW2XHKIAT+s1VHZ/V5zM6Pmf49/X3n8DmUXOMW/k7NDZD5fdWiH9f/CwEoXMJuN2/Y+Z61YSJN8Jp4K6JGsEIvgn41gjllT9YJT5N7til33kjHA/zhnl3X8QIPxqD9cauvLrtHHA8ovwhL8ioosWs7GH99rKO+0MD6pzeCG9G5v3GJNxinCVrAZTApxEhPtbnRQXl/fY3ZzK8X9GHYqup83ujvReZ/xhwk5dzHMr7yT+ITP6FFiqVJje8HgyU/w24+Xpbp1mEHvBJRI4jukBFa2Vz4H5vRyY9AdyS4n6G357A/T+ssHP4MFwHHI3I837VMEwtdN6IJKDvgfnUBGRC4MsgAb5cMYEWpoI8GTHCW55PIyMY5V+LKP8rsFBDeS/8PHDRlL9XgburepIJo9u0cgy34tcbVYtmgpciRch54P46W4/huxQUPydT3dbwulPzR2iE3bW2R7NKTxlwMjDuuq2udY3Q7wTxf7AOT8NvEVhRXgOzWC8kbY8mPmdNh6avhlgBHmugvOe9BvguAEA76hYzJlS3AudUVi/zudVAWTECqJQiQoDd/2qQU70A94nIgvIuReSCiHwV9AeSbKDjJQVi9v+yAii7rltZEOJD4CKwpWb8l0Fd/7eOn9Wt4gJQdsaEQGVQNopxayDE5JYjgQF2N4z/2qCs6oo1BiFVuj8pgrYFylKqwEYgZET3Zyal/d0mKEvFAbVBiDHkgWD7ezcllNoEZXWQYG0QUqH7U04alNXtBSSDkKrdn0mDsibdoCQQktL9mSQoa4oRKoOQlO7PpEBZW0YYCULqdH8mAcraNMIisBwRzoOQNXW6P6uAMl/jX24Cyto+FXpEBfK4fuBBiPGApO5PBJRZ3n3giU4ckQXngkOT4VeATea9pO5PEDqng6Ox57t6PrhThT0DvGie1+r+mBBYUr5/VG2b3chrLuuBjYFh2uj+WL6t7fOtWVHP8HvOueWIkP7wc6BzHtVz/tIciI66e7BsDmQHIt2/82OT2Cnj+rW6P/+7+4PGEHPm9NiXvxvHffmpa3lhySTHXdN6EXL91Kx8vgKbL0FnypQpU6ZMmTJ1n/4B6khjlIYwrK4AAAAASUVORK5CYII=",
+   "zip": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/programacio-1.0.0.zip",
+   "sig": "https://raw.githubusercontent.com/Jaumartang/Tactyl-releases/main/addons/programacio-1.0.0.zip.sig"
   }
  ]
 }
